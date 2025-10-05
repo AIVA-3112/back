@@ -78,7 +78,7 @@
     "@types/pdf-parse": "^1.1.5",
    
     "@types/winston": "^2.4.4",
-    "nodemon": "^3.0.2",
+    "nodemon": "^3.0.2"
    
   }
 }
